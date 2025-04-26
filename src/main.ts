@@ -1,4 +1,4 @@
-import { Bukkit, ServerCommands, ServerEvents } from '@customrealms/core';
+import { Bukkit, ServerCommands, ServerEvents } from '@openrealms/core';
 import { buildStairs } from './stairs';
 
 const ChatColor = org.bukkit.ChatColor;

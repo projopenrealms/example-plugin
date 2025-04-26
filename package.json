@@ -11,10 +11,10 @@
 	"author": "",
 	"license": "MIT",
 	"dependencies": {
-		"@customrealms/core": "2.0.19"
+		"@openrealms/core": "2.0.2"
 	},
 	"devDependencies": {
-		"@customrealms/cli": "2.0.9",
+		"@openrealms/cli": "2.0.1",
 		"tslib": "2.3.1",
 		"typescript": "4.4.4"
 	}
