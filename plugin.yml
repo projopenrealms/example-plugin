@@ -1,5 +1,7 @@
 name: ExamplePlugin
-main: ./src/main.ts
+version: 1.0.0
+main: ./src/main.ts #not needed since src/main.ts is the default entry point. you can customize this
+#API Version will always be "1.13" for now
 
 commands:
   gmsp:
